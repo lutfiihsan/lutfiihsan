@@ -6,7 +6,7 @@ web base. All aspects of web development including front and back end, version
 management with git. I do programming fulltime/freelance, since l'm a "career changer" I always keen to learn deep into the fundamentals of the languages and moving forward into web development with the latest technologies required to work with it. I can work in individual or team.
 
 - 👋 Hi, I’m Lutfi
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning Golang
 - 💬 Ask me about Coding
 - 📫 How to reach me:
